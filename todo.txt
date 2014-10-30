@@ -6,7 +6,7 @@ a Flex SDK-ra szükséged lesz a forgatásnál, telepítéskor engedélyezd a le
 
 Ha valami gubi volt a PlayerGlobal.swc-vel a FlashDevelop telepítése közben, a linkről azt is leszedheted.
 
-A FlashDevelop-ban készíts egy új AS3 project-et (menu: project/new project/AS3 project) és a "create directory for project"-et pipáld ki, különben szétszórja az útvonalra az összes létrejövő mappát és fájt. A létrejött könyvtár "src" mappájába másold be a https://github.com/jck-/OOP factory könyvtárat. A src/Main.as-t töröld, nem lesz rá szükség. A Project ablakban (menu: View/Project Manager) bökj rá jöbb egérgombbal a src/factory/Main.as fájlra és a környzeti menüből válaszd a Set Document Class opciót. Finger cross és futtasd (Test Project).
+A FlashDevelop-ban készíts egy új AS3 project-et (menu: project/new project/AS3 project) és a "create directory for project"-et pipáld ki, különben szétszórja az útvonalra az összes létrejövő mappát és fájt. A létrejött könyvtár "src" mappájába másold be a https://github.com/jck-/OOP factory könyvtárat. A src/Main.as-t töröld, nem lesz rá szükség. A Project ablakban (menu: View/Project Manager) bökj rá jobb egérgombbal a src/factory/Main.as fájlra és a környzeti menüből válaszd a Set Document Class opciót. Finger cross és futtasd (Test Project).
 
 
 EN:

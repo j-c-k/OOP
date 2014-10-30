@@ -10,7 +10,7 @@ package factory
 	 */
 	public class Main extends Sprite
 	{
-		private var factory:HandleFactory;
+		private var hfactory:HandleFactory;
 		private var handles:Vector.<Sprite>;
 		private static var _coordinates:Vector.<Point> = new <Point>[ new Point( 50, 20 ), 
 																	new Point( 50, 40 ), 
@@ -25,10 +25,10 @@ package factory
 		
 		public function Main()
 		{
-			factory = new HandleFactory();
-			addChild( factory );
+			hfactory = new HandleFactory();
+			addChild( hfactory );
 			
-			handles = factory.createHandles();
+			handles = hfactory.createHandles();
 		}
 		
 		static public function get coordinates():Vector.<Point>
