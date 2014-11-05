@@ -1,6 +1,6 @@
 
 
-OOP tutorial and code (ActionScript)
+OOP tutorial with pseudocode and with ActionScript code download option
 
 
 
